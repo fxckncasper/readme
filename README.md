@@ -51,7 +51,7 @@
 
 ###
 
-<img align="right" height="200" src="https://media4.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif?cid=ecf05e47td166ui6wttqwpouq5dgxp3mqfbiutorcjmy3py4&ep=v1_gifs_search&rid=giphy.gif&ct=g"  />
+<img align="center" height="200" src="https://media4.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif?cid=ecf05e47td166ui6wttqwpouq5dgxp3mqfbiutorcjmy3py4&ep=v1_gifs_search&rid=giphy.gif&ct=g"  />
 
 ###
 
@@ -61,6 +61,6 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/fxckncasper/fxckncasper/output/snake.svg" alt="Snake animation" />
+
 
 ###
